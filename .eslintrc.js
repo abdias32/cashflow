@@ -25,6 +25,7 @@ module.exports = {
           "Index",
           "Action",
           "Modal",
+          "Graphic",
         ],
       },
     ],
